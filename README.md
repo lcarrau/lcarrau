@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lcarrau
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning to work with Java
+- 🌱 I’m currently learning to work with R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkedIn: linkedin.com/in/laura-carrau-1b3944181
 
